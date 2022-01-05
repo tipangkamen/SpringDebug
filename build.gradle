@@ -380,9 +380,9 @@ configure(rootProject) {
 	publishing {
 		publications {
 			mavenJava(MavenPublication) {
-				artifact docsZip
-				artifact schemaZip
-				artifact distZip
+//				artifact docsZip
+//				artifact schemaZip
+//				artifact distZip
 			}
 		}
 	}
